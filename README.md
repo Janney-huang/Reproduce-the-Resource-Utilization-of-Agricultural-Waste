@@ -54,16 +54,14 @@ python code/01_data_preprocessing.py
 python code/02_statistical_analysis.py
 python code/03_visualization.py
 
-4.本仓库复现内容
-- 复现代码：[code/reproduce_analysis.R](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FJanney-huang%2FReproduce-the-Resource-Utilization-of-Agricultural-Waste%2Fblob%2Fmain%2Fcode%2Freproduce_analysis.R&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+### 4. 本仓库复现内容
+- **复现代码**：[code/reproduce_analysis.R](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FJanney-huang%2FReproduce-the-Resource-Utilization-of-Agricultural-Waste%2Fblob%2Fmain%2Fcode%2Freproduce_analysis.R&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
   - 包含数据加载、统计分析、可视化全流程 R 代码
-- 复现结果：[results/figures/h2_storage_comparison.png](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FJanney-huang%2FReproduce-the-Resource-Utilization-of-Agricultural-Waste%2Fblob%2Fmain%2Fresults%2Ffigures%2Fh2_storage_comparison.png&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- **复现结果**：[results/figures/h2_storage_comparison.png](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FJanney-huang%2FReproduce-the-Resource-Utilization-of-Agricultural-Waste%2Fblob%2Fmain%2Fresults%2Ffigures%2Fh2_storage_comparison.png&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
   - 完整复现论文 Figure 6 储氢性能对比图
-- 结果及研究内容解读**：[docs/result_interpretation.md](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FJanney-huang%2FReproduce-the-Resource-Utilization-of-Agricultural-Waste%2Fblob%2Fmain%2Fdocs%2Fresult_interpretation.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- **结果及研究内容解读**：[docs/result_interpretation.md](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FJanney-huang%2FReproduce-the-Resource-Utilization-of-Agricultural-Waste%2Fblob%2Fmain%2Fdocs%2Fresult_interpretation.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
   - 完整解读研究结论、复现结果与科学意义
-📖 文档站
-完整使用指南、复现步骤、数据说明、结果分析请查看：
-👉 https://janney-huang.github.io/Reproduce-the-Resource-Utilization-of-Agricultural-Waste/
+- **完整文档站**：[https://janney-huang.github.io/Reproduce-the-Resource-Utilization-of-Agricultural-Waste/](sslocal://flow/file_open?url=https%3A%2F%2Fjanney-huang.github.io%2FReproduce-the-Resource-Utilization-of-Agricultural-Waste%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 📊 结果展示
 土壤有效磷显著提升
 作物产量稳定提高 10%–15%
