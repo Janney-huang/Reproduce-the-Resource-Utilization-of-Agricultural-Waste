@@ -8,7 +8,7 @@
 
 ## 📌 项目简介
 -项目名称:农业废弃物资源化利用
--项目成员：@JiangYee393、@hanyu-Yang、@caoyao-03、@Olivia-yao710
+-项目成员：@Janney-huang、@JiangYee393、@hanyu-Yang、@caoyao-03、@Olivia-yao710
 -项目内容：
 -文章链接：https://github.com/user-attachments/files/26074845/Transforming-breakfast-bio-waste-into-hydrog_2025_International-Journal-of-H.pdf
 -仓库链接：https://janney-huang.github.io/Reproduce-the-Resource-Utilization-of-Agricultural-Waste/
