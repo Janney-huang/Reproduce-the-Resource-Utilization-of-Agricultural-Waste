@@ -1,0 +1,14 @@
+# R 环境配置说明
+
+## 所需 R 包
+- ggplot2：数据可视化
+- dplyr：数据处理
+- readr：数据读取
+
+## 安装命令（国内清华源加速）
+```r
+# 配置清华镜像源
+options(repos = c(CRAN="https://mirrors.tuna.tsinghua.edu.cn/CRAN/"))
+
+# 一键安装所有依赖
+install.packages(c("ggplot2", "dplyr", "readr"))
