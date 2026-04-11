@@ -48,11 +48,11 @@ plaintext
 
 
 ## 🚀 快速开始
-### 1. 克隆项目
+###1.克隆项目
 ```bash
 git clone https://github.com/Janney-huang/Reproduce-the-Resource-Utilization-of-Agricultural-Waste.git
 cd Reproduce-the-Resource-Utilization-of-Agricultural-Waste
-### 2. 配置环境
+###2. 配置环境
 bash
 conda create -n agri-waste python=3.10
 conda activate agri-waste
@@ -71,13 +71,13 @@ options(repos = c(CRAN = "https://mirrors.tuna.tsinghua.edu.cn/CRAN/"))
 # 安装项目所需R包
 install.packages(c("ggplot2", "dplyr", "readr"))
 详细说明见 r-requirement.md
-### 3. 运行代码
+###3. 运行代码
 bash
 python code/01_data_preprocessing.py
 python code/02_statistical_analysis.py
 python code/03_visualization.py
 
-### 4. 本仓库复现内容
+###4. 本仓库复现内容
 - **复现代码**：[code/reproduce_analysis.R](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FJanney-huang%2FReproduce-the-Resource-Utilization-of-Agricultural-Waste%2Fblob%2Fmain%2Fcode%2Freproduce_analysis.R&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
   - 包含数据加载、统计分析、可视化全流程 R 代码
 - **数据预处理**：
