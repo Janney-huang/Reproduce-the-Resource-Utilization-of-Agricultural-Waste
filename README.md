@@ -96,4 +96,4 @@ python code/01_data_preprocessing.py
 希望复现论文实验的学习者
 📧 联系方式
 GitHub：@Janney-huang
-项目仓库：https://github.com/Janney-huang/Reproduce-the-Resource-Utilization-of-Agricultural-Waste
+项目仓库：https://d2rs-2026spring.github.io/Reproduce-the-Resource-Utilization-of-Agricultural-Waste/
